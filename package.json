@@ -1,5 +1,5 @@
 {
-  "name": "@storybook/addon-svelte-csf",
+  "name": "@storybook/addon-svelte-csf-shots",
   "version": "1.1.0",
   "description": "Allows to write stories in Svelte syntax",
   "keywords": [
@@ -45,6 +45,7 @@
     "@storybook/addon-essentials": "^6.2.9",
     "@storybook/addon-knobs": "^6.2.9",
     "@storybook/addon-storyshots": "^6.2.9",
+    "@storybook/addon-svelte-csf": "^1.1.0",
     "@storybook/eslint-config-storybook": "^3.0.0",
     "@storybook/svelte": "^6.2.9",
     "auto": "^10.3.0",
